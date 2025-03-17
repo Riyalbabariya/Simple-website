@@ -1,0 +1,31 @@
+TeddyHeaven
+
+Project Overview:
+TeddyHeaven is a responsive e-commerce platform specializing in personalized teddy bears. Built with core web technologies (HTML, CSS, and JavaScript), the website offers an intuitive and visually appealing shopping experience across all devices.
+
+Features :
+Responsive Design: Seamlessly adapts to various screen sizes and devices
+Intuitive Navigation: User-friendly interface for easy browsing and shopping
+Product Customization: Personalization options for teddy bears
+User Accounts: Secure customer profile management
+Product Gallery: High-quality images with zoom functionality
+Search Functionality: Easy product discovery
+
+Technologies Used :
+HTML5
+CSS3 (with Flexbox/Grid)
+JavaScript 
+Local Storage for cart functionality
+Responsive design principles
+
+Deployment:
+The website can be deployed on any standard web hosting service that supports HTML, CSS, and JavaScript files.
+
+Future Enhancements :
+Integration with payment gateways
+Customer reviews and ratings
+Wish list functionality
+Enhanced product filtering
+
+Contact :
+For any inquiries or support, please contact riyalaus17@gmail.com
